@@ -10,7 +10,7 @@
   <p>Use the supplied Olympics data which contains medal counts, countries, male/female winners etc. Analyze it, and create a one-page app that tels the story</p>
   <hr>
   <h3>Getting Started</h3>
-  <p>This is the link to it.</p>
+  <p>This is the link to it.<link>https://www.fanshaweonline.ca/d2l/le/content/969974/viewContent/7566978/View</link></p>
   <hr>
   <h3>Prerquisties</h3>
   <p>It is just a Data Visualization</p>
